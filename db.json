@@ -1,19 +1,20 @@
 {
   "heroes": [
     {
-      "id": 1,
-      "name": "鲁班",
-      "gender": "女"
-    },
-    {
       "id": 2,
-      "name": "孙悟空",
-      "gender": "男"
+      "name": "孙悟空1",
+      "gender": "女"
     },
     {
       "id": 3,
       "name": "妲己",
       "gender": "女"
+    },
+    {
+      "txtname": "",
+      "gender": "男",
+      "name": "沙发上",
+      "id": 4
     }
   ]
 }

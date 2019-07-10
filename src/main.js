@@ -7,6 +7,8 @@ import "../node_modules/bootstrap/dist/css/bootstrap.css";
 import "./assets/css/index.css";
 import axios from 'axios'
 Vue.prototype.axios = axios
+// 设置baseurl
+axios.defaults.baseURL = 'http://localhost:3000/'
 import router from './router'
 new Vue({
   router,
